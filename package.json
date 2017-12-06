@@ -1,0 +1,61 @@
+{
+  "_from": "react-native-smart-pull-to-refresh-listview",
+  "_id": "react-native-smart-pull-to-refresh-listview@1.6.10",
+  "_inBundle": false,
+  "_integrity": "sha1-IRye2FspHcyymo5iQts1Y5e+BF0=",
+  "_location": "/react-native-smart-pull-to-refresh-listview",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-smart-pull-to-refresh-listview",
+    "name": "react-native-smart-pull-to-refresh-listview",
+    "escapedName": "react-native-smart-pull-to-refresh-listview",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-smart-pull-to-refresh-listview/-/react-native-smart-pull-to-refresh-listview-1.6.10.tgz",
+  "_shasum": "211c9ed85b291dccb29a8e6242db356397be045d",
+  "_spec": "react-native-smart-pull-to-refresh-listview",
+  "_where": "/Users/duydatpham/Desktop/smart-home/LumiLife",
+  "author": {
+    "name": "HISAME SHIZUMARU"
+  },
+  "bugs": {
+    "url": "https://github.com/react-native-component/react-native-smart-pull-to-refresh-listview/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "react-native-smart-timer-enhance": "^1.0.2"
+  },
+  "deprecated": false,
+  "description": "A smart pull-down-refresh and pull-up-loadmore react-native listview, for ios, written in pure JS, for android, written in JS and Java.",
+  "homepage": "https://github.com/react-native-component/react-native-smart-pull-to-refresh-listview#readme",
+  "keywords": [
+    "react-native",
+    "smart",
+    "pull",
+    "up",
+    "down",
+    "refresh",
+    "loadmore",
+    "listview",
+    "component"
+  ],
+  "license": "MIT",
+  "main": "PullToRefreshListView",
+  "name": "react-native-smart-pull-to-refresh-listview",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-native-component/react-native-smart-pull-to-refresh-listview.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.6.10"
+}
